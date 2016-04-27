@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionessoph00mattgoog_0006.png"; bbox 0 0 2678 4816; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 595 218 630 329">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 396 126 630 329">
+     <span class='ocr_line' id='line_1_1' title="bbox 595 218 630 329; baseline 0 -192"><span class='ocrx_word' id='word_1_1' title='bbox 595 218 630 329; x_wconf 54' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 238 472 1203 635">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 238 472 1203 635">
+     <span class='ocr_line' id='line_1_2' title="bbox 238 472 1203 635; baseline 0.004 -22"><span class='ocrx_word' id='word_1_2' title='bbox 238 522 948 635; x_wconf 63' lang='lat' dir='ltr'><strong>QUAEswloNEs</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1195 472 1203 484; x_wconf 70' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 51 909 1123 1078">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 51 909 1252 1078">
+     <span class='ocr_line' id='line_1_3' title="bbox 51 909 1123 1078; baseline 0.002 -19"><span class='ocrx_word' id='word_1_4' title='bbox 51 909 1123 1078; x_wconf 66' lang='lat' dir='ltr'><strong>sopflocLEAR</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 183 2444 1006 2537">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 183 2444 1006 2537">
+     <span class='ocr_line' id='line_1_4' title="bbox 183 2444 1006 2537; baseline -0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 183 2444 643 2537; x_wconf 78' lang='lat' dir='ltr'><strong>CONSTANTINUS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 673 2444 1006 2535; x_wconf 84' lang='grc' dir='ltr'><strong>ΜΑΤΤΗΙΑΕ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 424 3767 971 3847">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 424 3767 971 3847">
+     <span class='ocr_line' id='line_1_5' title="bbox 424 3767 971 3847; baseline 0.009 -5"><span class='ocrx_word' id='word_1_7' title='bbox 424 3767 776 3844; x_wconf 83' lang='lat' dir='ltr'><strong>LIPSIAE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 955 3810 971 3847; x_wconf 68' lang='grc' dir='ltr'><strong><em>ο</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 222 3969 990 4037">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 222 3969 990 4037">
+     <span class='ocr_line' id='line_1_6' title="bbox 222 3969 990 4037; baseline -0.007 -1"><span class='ocrx_word' id='word_1_9' title='bbox 222 3969 990 4037; x_wconf 81' lang='lat' dir='ltr'><strong>AP·UDWE1DMANNOS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1344 4816">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1344 4816">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1344 4816; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1344 4816; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
